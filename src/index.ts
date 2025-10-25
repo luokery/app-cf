@@ -1,3 +1,5 @@
+import { connect } from 'cloudflare:sockets';
+
 import { renderHtml } from "./renderHtml";
 
 export default {
